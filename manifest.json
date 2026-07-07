@@ -1,0 +1,16 @@
+{
+  "name": "Шёпот в стенах",
+  "short_name": "Шёпот",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#800000",
+  "description": "Хоррор-квест в заброшенном особняке",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
